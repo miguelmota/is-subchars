@@ -1,0 +1,23 @@
+{
+  "name": "is-subchars",
+  "main": "is-subchars.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-subchars",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Predicate that returns true if all characters are found in provided string.",
+  "keywords": [
+    "character",
+    "string",
+    "substr"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
